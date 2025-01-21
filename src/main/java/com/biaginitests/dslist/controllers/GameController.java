@@ -7,7 +7,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.biaginitests.dslist.dto.GameMinDTO;
-import com.biaginitests.dslist.entities.Game;
 import com.biaginitests.dslist.services.GameService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
